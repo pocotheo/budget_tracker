@@ -1,6 +1,6 @@
 # budget_tracker
 
-A budget tracker in which I used Provider and Data Persistance.
+A budget tracker in which I used Provider and Data Persistance with Hivee & LocalStorageService.
 
 ## Screenshots
 <div>
